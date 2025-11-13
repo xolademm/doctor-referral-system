@@ -20,7 +20,7 @@ The system simplifies the referral process by documenting every patient interact
 ## 🧩 System Architecture
 
 ### **Frontend**
-- Built with **Next.js** and hosted on **Vercel**.  
+- Built with **Next.js** and hosted on **Streamlit**.  
 - User roles: Patient, Doctor, Admin.  
 - Interactive dashboards for communication and record viewing.
 
